@@ -6,7 +6,7 @@ Two main scripts accomplish the jobs **submit.py** and **monitor.py**.
 ## To setup on a Linux server
 
 1. Clone AIMS_Simu and AIMS_Tools:  
-    `$git clone https://github.com/sungroup-sjtu/AIMS_Simu'
+    `git clone https://github.com/sungroup-sjtu/AIMS_Simu`
 
 2. Modify `config.py`  
   a) Set paths of MS_TOOLS, WORK_DIR, PACKMOL, DFF and DFF database.  
